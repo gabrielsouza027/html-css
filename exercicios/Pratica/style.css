@@ -1,0 +1,51 @@
+@charset "UTF-8";
+* {
+   
+}
+
+.logo {
+    margin-left: 70px;
+    margin-top: -65px;
+}
+
+header {
+    background-color: rgba(219, 217, 217, 0.342);
+    margin-top: -8px;
+    padding-left: 0px;
+    margin-left: -8px;
+    margin-right: -8px;
+    padding-top: 2px;
+} 
+
+nav  {
+    margin-left: 1000px;
+    margin-top: -44px;
+    padding-bottom: 61px;
+} 
+
+
+a:active {
+    color: white;
+}
+
+a {
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-decoration: none;
+    color: black;
+}
+
+
+h1 { 
+     margin-left: 1500px;
+}
+
+
+
+.tenis {
+    margin-left: 385px;
+    margin-top: -109px;
+    margin-bottom: 200px;
+
+}
